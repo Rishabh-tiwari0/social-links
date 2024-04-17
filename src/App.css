@@ -69,6 +69,7 @@ body {
   padding: 8px 10px;
   border-radius: 5px;
   transition: ease 0.3s;
+  cursor: pointer;
 }
 .link-container a:hover,
 .link-container a:active {
